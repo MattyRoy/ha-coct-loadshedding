@@ -1,0 +1,13 @@
+{
+    "domain": "coct_loadshedding",
+    "name": "City of Cape Town Loadshedding Interface",
+    "documentation": "https://github.com/MattRoy/ha-coct-loadshedding",
+    "issue_tracker": "https://github.com/MattRoy/ha-coct-loadshedding/issues",  
+    "dependencies": [],
+    "config_flow": true,
+    "version": "1.0.0",
+    "codeowners": [
+      "@MattRoy"
+    ],
+    "requirements": []
+  }
